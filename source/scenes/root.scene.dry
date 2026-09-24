@@ -524,15 +524,14 @@ Q.hindenburg_dismissal_timer = 0;
 
 
 // all the initial advisors are centrists.
-Q.wels_advisor = 1; // Otto Wels
-Q.muller_advisor = 1; // Hermann Müller
-Q.muller_dead = 0;
+Q.asanuma_advisor = 1; // Inejirō Asanuma
+Q.takayama_advisor = 1; // Tetsu Takayama
 // okay I know Arthur Crispien was a leader irl but i couldn't find much interesting about him...
 Q.crispien_advisor = 0; // Arthur Crispien
 Q.hilferding_advisor = 1; // Rudolf Hilferding
 
 // left advisors
-Q.sender_advisor = 0; // Toni Sender
+Q.kato_advisor = 0; // Kanjū Katō
 Q.levi_advisor = 0; // Paul Levi
 Q.levi_dead = 0;
 Q.rosenfeld_advisor = 0; // Kurt Rosenfeld
@@ -554,9 +553,8 @@ Q.aufhauser_advisor = 0; // Siegfried Aufhäuser
 Q.woytinsky_advisor = 0; // Wladimir Woytinsky (post-1930)
 Q.wissell_advisor = 0; // Rudolf Wissell
 
-// Revisionist advisors
+// Farmers advisors
 Q.mierendorff_advisor = 0; // Carlo Mierendorf (post-1930)
-
 Q.leber_advisor = 0; // Julius Leber (post-1930)
 Q.schumacher_advisor = 0; // Kurt Schumacher (post-1930)
 
