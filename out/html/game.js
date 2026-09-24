@@ -16,10 +16,10 @@
     // Add your custom code here.
   };
 
-  var TITLE = "Social Democracy: An Alternate History" + '_' + "Autumn Chen";
+  var TITLE = "A Defence at All Cost : Alternate History";
 
   // the url is a link to game.json
-  // test url: https://aucchen.github.io/social_democracy_mods/v0.1.json
+  // test url: https://j3zzz-2.github.io/1940_japan_socialist_party_a_defence_at_all_cost_alternate_history/
   // TODO; 
   window.loadMod = function(url) {
       ui.loadGame(url);
